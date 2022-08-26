@@ -19,6 +19,7 @@ canvas = Canvas(tk, width = 605, height= 600, bg="gray")
 canvas.pack()
 
 
+
 def __init__():
     global is_gameover, point
     is_gameover = False
